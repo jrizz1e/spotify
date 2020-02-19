@@ -1,7 +1,7 @@
 # spotify
 Purpose: create a playlist populated with user selected tracks and most similar recommendations
 
-This allows a user to explore a playlist more efficiently and create a more relevant playlist for the user
+This allows a user to explore a playlist more efficiently and creates a playlist with the most relevant tracks for the user
 
 How to access your Spotify User ID
   
